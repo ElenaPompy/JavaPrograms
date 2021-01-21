@@ -25,6 +25,7 @@ public class anagram {
 		}
 		else
 			System.out.println("not anagram");
+		System.out.println("test");
 		
 
 
